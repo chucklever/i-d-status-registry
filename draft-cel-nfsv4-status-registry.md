@@ -11,7 +11,7 @@ stand_alone: yes
 pi: [toc, sortrefs, symrefs, docmapping]
 v: 3
 area: "Web and Internet Transport"
-workgroup: Network File System Version 4
+workgroup: "Network File System Version 4"
 keyword:
  - NFS
  - nfsstat4
@@ -19,12 +19,12 @@ keyword:
  - IANA
 
 venue:
-  group: nfsv4
-  type: Working Group
-  mail: nfsv4@ietf.org
-  arch: https://mailarchive.ietf.org/arch/browse/nfsv4/
-  github: chucklever/i-d-status-registry
-  latest: https://chucklever.github.io/i-d-status-registry/draft-cel-nfsv4-status-registry.html
+  group: "Network File System Version 4"
+  type: "Working Group"
+  mail: "nfsv4@ietf.org"
+  arch: "https://mailarchive.ietf.org/arch/browse/nfsv4/"
+  github: "chucklever/i-d-status-registry"
+  latest: "https://chucklever.github.io/i-d-status-registry/draft-cel-nfsv4-status-registry.html"
 
 author:
  -
